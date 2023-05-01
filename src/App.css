@@ -1,0 +1,92 @@
+*{
+  box-sizing: border-box;
+}
+
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background-color: bisque;
+  gap: 15px;
+  padding: 10px;
+}
+
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 85%;
+  max-width: 750px;
+  background-color: darkseagreen;
+  color: white;
+  gap: 30px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.userPhoto {
+  border-radius: 50%;
+}
+
+#showDiv {
+  text-align: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.icons div:hover {
+  cursor: pointer;
+  transform: translateY(-0.25em);
+  box-shadow: 0 0.5em 0.5em -0.4em;
+}
+
+.icons div {
+  color: black;
+  border-radius: 20px;
+  font-size: xx-large;
+  padding: 10px;
+}
+
+.RefleshButton {
+  background-color: #0a5472;
+  color: white;
+  border: none;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.RefleshButton:hover {
+  transform: translateY(-0.25em);
+  box-shadow: 0 0.5em 0.5em -0.4em;
+}
+
+
+.Loader-Container{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 120px;
+  height: 120px;
+  margin: -76px 0 0 -76px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid bisque;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
