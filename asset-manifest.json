@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rastgele-Kullanici-Olusturma/static/css/main.a9f75860.css",
+    "main.css": "/Rastgele-Kullanici-Olusturma/static/css/main.9a6c82ad.css",
     "main.js": "/Rastgele-Kullanici-Olusturma/static/js/main.504527ce.js",
     "index.html": "/Rastgele-Kullanici-Olusturma/index.html",
-    "main.a9f75860.css.map": "/Rastgele-Kullanici-Olusturma/static/css/main.a9f75860.css.map",
+    "main.9a6c82ad.css.map": "/Rastgele-Kullanici-Olusturma/static/css/main.9a6c82ad.css.map",
     "main.504527ce.js.map": "/Rastgele-Kullanici-Olusturma/static/js/main.504527ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f75860.css",
+    "static/css/main.9a6c82ad.css",
     "static/js/main.504527ce.js"
   ]
 }
