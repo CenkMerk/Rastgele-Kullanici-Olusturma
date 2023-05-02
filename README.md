@@ -208,6 +208,21 @@ Herhangi bir sorun yok, o halde biraz düzenleme yapalım.
 
 Ekranda bir profil resmi ve onun altında 6 tane ikon koymak istiyorum. 
 
+İkonları kullanabilmek için önce terminale şunu yazıyorum:
+
+`npm install react-icons`
+
+Kullanacağım uygun ikonları bulup import ediyorum
+
+```js
+import { FiUser } from "react-icons/fi";
+import { FcBusinessContact } from "react-icons/fc";
+import { FcCalendar } from "react-icons/fc";
+import { FcGlobe } from "react-icons/fc";
+import { FcLock } from "react-icons/fc";
+import { FcPhone } from "react-icons/fc";
+```
+
 Her bir ikonun üzerine geldiğinde onunla alakalı olan veriyi, profil resmi ile ikonlar arasına yazdırmak istiyorum. 
 
 Bunun için ise her bir ikona ait bir anahtar kelimeyi (örneğin `contact` gibi) fare üzerine geldiğinde `onMouseOver` fonksiyonu ile `showData` adlı fonksiyona
