@@ -9,7 +9,7 @@
   align-items: center;
   width: 100%;
   min-height: 100vh;
-  background-color: bisque;
+  background-color: darkslategrey;
   gap: 15px;
   padding: 10px;
 }
@@ -20,7 +20,7 @@
   align-items: center;
   width: 85%;
   max-width: 750px;
-  background-color: darkseagreen;
+  background-color: lightslategrey;
   color: white;
   gap: 30px;
   padding: 20px;
@@ -56,7 +56,7 @@
 }
 
 .RefleshButton {
-  background-color: #0a5472;
+  background-color: slateblue;
   color: white;
   border: none;
   font-size: 20px;
