@@ -93,7 +93,7 @@ const [user, setUser] = useState();
 import { useState } from "react";
 ```
 
-Şimdi debu API isteğini yapacak `getUserData` isimli bir fonksiyon oluşturalım.
+Şimdi de bu API isteğini yapacak `getUserData` isimli bir fonksiyon oluşturalım.
 Veriyi başarılı bir şekilde aldığında ise az önce oluşturduğumuz state parçası içine kaydedecek.
 
 
