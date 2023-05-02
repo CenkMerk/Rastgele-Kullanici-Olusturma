@@ -1,6 +1,6 @@
 # Rastgele-Kullanici-Olusturma
 
-###💡 Kazanımlar
+### 💡 Kazanımlar
 
 - useState kullanımı
 
@@ -11,7 +11,7 @@
 - json tipindeki veriyi okuma ve kullanma
 
 
-###Proje Adımları
+### Proje Adımları
 
 Projenizin için bir klasör oluşturun ve bu klasör içinde React projenizi oluşturun.
 
