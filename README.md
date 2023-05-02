@@ -1,10 +1,17 @@
 # Rastgele-Kullanici-Olusturma
 
-💡Kazanımlar
--useState kullanımı
--useEffect kullanımı
--axios ile api ye istek atma
--json tipindeki veriyi okuma ve kullanma
+###💡 Kazanımlar
+
+- useState kullanımı
+
+- useEffect kullanımı
+
+- axios ile api ye istek atma
+
+- json tipindeki veriyi okuma ve kullanma
+
+
+###Proje Adımları
 
 Projenizin için bir klasör oluşturun ve bu klasör içinde React projenizi oluşturun.
 
