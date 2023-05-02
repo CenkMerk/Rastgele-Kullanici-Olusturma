@@ -1,4 +1,4 @@
-# Rastgele-Kullanici-Olusturma
+# Rastgele Kullanici Olusturma
 
 ### 💡 Kazanımlar
 
